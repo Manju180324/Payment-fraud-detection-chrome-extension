@@ -3,6 +3,11 @@
 ## Overview
 A Chrome extension that detects potential payment fraud by analyzing webpage security threats using Google Safe Browsing, VirusTotal, and AI-based risk assessment.
 
+## dependencies
+1. npm install
+2. npm install express axios cors dotenv body-parser
+3. node server.js
+   
 ## Features
 . Real-time Page Scan – Detects phishing and fraud attempts
 . Risk Scoring System – Assigns risk levels based on threats
