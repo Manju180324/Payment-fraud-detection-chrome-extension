@@ -6,7 +6,7 @@ A Chrome extension that detects potential payment fraud by analyzing webpage sec
 ## dependencies
 1. npm install
 2. npm install express axios cors dotenv body-parser
-3. node server.js
+3. node server.js
    
 ## Features
 . Real-time Page Scan – Detects phishing and fraud attempts
